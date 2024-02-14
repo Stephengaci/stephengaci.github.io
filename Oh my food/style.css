@@ -1,0 +1,43 @@
+#logo{
+    display: flex;
+    justify-content: center;
+}
+#formulaire{
+    display:flex;
+    justify-content: center;
+    background-color: #EAEAEA;
+}
+p.titre{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+p.info{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    background: #F6F6F6;
+
+}
+button{
+    display: flex;
+    justify-content: center;
+
+}
+
+input{
+    background-color: transparent;
+    border: none;
+}
+#zone_recherche{
+    background: #F6F6F6;
+
+}
+#xplore{
+    display: flex;
+    justify-content: center;
+}
+#Fonction{
+    display: flex;
+    justify-content: center;
+}
